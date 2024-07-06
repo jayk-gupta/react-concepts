@@ -1,0 +1,23 @@
+.counter{
+    padding: 4rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.input{
+    background:#ddd ;
+    display: flex;
+    align-items: center;
+}
+
+.step{
+    margin: 20px;
+}
+.btns{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+}
